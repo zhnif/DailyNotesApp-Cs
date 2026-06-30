@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\bin\Debug\DailyNotesApp.exe.config
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\bin\Debug\DailyNotesApp.exe
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\bin\Debug\DailyNotesApp.pdb
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\obj\Debug\DailyNotesApp.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\obj\Debug\DailyNotesApp.Form1.resources
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\obj\Debug\DailyNotesApp.Properties.Resources.resources
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\obj\Debug\DailyNotesApp.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\obj\Debug\DailyNotesApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\obj\Debug\DailyNotesApp.exe
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\obj\Debug\DailyNotesApp.pdb
+C:\Users\Hp\Desktop\dailyC#\DailyNotesApp\obj\Debug\DailyNotesApp.exe.config
